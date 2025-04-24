@@ -18,18 +18,12 @@ Este proyecto implementa un sistema de gestión de torneos de eSports utilizando
 ![Diagrama de clases](diagrams/clases.png)
 
 ## Estructura del Proyecto
-torneo-esports-uml/ ├── src/
-│ ├── es/empresa/torneo/
-│ │ ├── modelo/
-│ │ ├── control/
-│ │ ├── vista/
-│ │ ├── Main.java
+torneo-esports-uml/ 
 ├── diagrams/
 │ ├── casos-uso.png
 │ ├── clases.png
 ├── README.md
-├── .gitignore
-├── LICENSE (opcional)
+
 
 ## Instalación y Ejecución
 1. Clonar el repositorio:
@@ -37,8 +31,3 @@ torneo-esports-uml/ ├── src/
 
 2. Compilar y ejecutar el proyecto:
 `cd src javac es/empresa/torneo/Main.java java es.empresa.torneo.Main`
-
-## Justificación del diseño
-Por qué se eligió esa estructura y cómo se organizan las clases.
-## Conclusiones
-Sobre el aprendizaje obtenido.
